@@ -97,7 +97,7 @@
 		<repository>
 			<id>github-fintech-platform</id>
 			<name>GitHub fintech-platform-benas Packages</name>
-			<url>https://maven.pkg.github.com/fintech-platform-benas</url>
+			<url>https://maven.pkg.github.com/fintech-platform-benas/payment-common-libs</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
@@ -112,12 +112,12 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/fintech-platform-benas/payment-product-service</url>
+			<url>https://maven.pkg.github.com/fintech-platform-benas/payment-common-libs/payment-product-service</url>
 		</repository>
 		<snapshotRepository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/fintech-platform-benas/payment-product-service</url>
+			<url>https://maven.pkg.github.com/fintech-platform-benas/payment-common-libs/payment-product-service</url>
 		</snapshotRepository>
 	</distributionManagement>
 
